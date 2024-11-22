@@ -142,7 +142,7 @@ importers:
   examples/basics:
     dependencies:
       astro:
-        specifier: ^4.16.14
+        specifier: ^4.16.15
         version: link:../../packages/astro
 
   examples/blog:
@@ -157,13 +157,13 @@ importers:
         specifier: ^3.2.1
         version: link:../../packages/integrations/sitemap
       astro:
-        specifier: ^4.16.14
+        specifier: ^4.16.15
         version: link:../../packages/astro
 
   examples/component:
     devDependencies:
       astro:
-        specifier: ^4.16.14
+        specifier: ^4.16.15
         version: link:../../packages/astro
 
   examples/container-with-vitest:
@@ -172,7 +172,7 @@ importers:
         specifier: ^3.6.3
         version: link:../../packages/integrations/react
       astro:
-        specifier: ^4.16.14
+        specifier: ^4.16.15
         version: link:../../packages/astro
       react:
         specifier: ^18.3.1
@@ -203,7 +203,7 @@ importers:
         specifier: ^3.14.3
         version: 3.14.3
       astro:
-        specifier: ^4.16.14
+        specifier: ^4.16.15
         version: link:../../packages/astro
 
   examples/framework-lit:
@@ -215,7 +215,7 @@ importers:
         specifier: ^0.2.1
         version: 0.2.1
       astro:
-        specifier: ^4.16.14
+        specifier: ^4.16.15
         version: link:../../packages/astro
       lit:
         specifier: ^3.2.1
@@ -245,7 +245,7 @@ importers:
         specifier: ^18.3.1
         version: 18.3.1
       astro:
-        specifier: ^4.16.14
+        specifier: ^4.16.15
         version: link:../../packages/astro
       preact:
         specifier: ^10.24.3
@@ -275,7 +275,7 @@ importers:
         specifier: ^1.3.0
         version: 1.3.0(preact@10.24.3)
       astro:
-        specifier: ^4.16.14
+        specifier: ^4.16.15
         version: link:../../packages/astro
       preact:
         specifier: ^10.24.3
@@ -293,7 +293,7 @@ importers:
         specifier: ^18.3.1
         version: 18.3.1
       astro:
-        specifier: ^4.16.14
+        specifier: ^4.16.15
         version: link:../../packages/astro
       react:
         specifier: ^18.3.1
@@ -308,7 +308,7 @@ importers:
         specifier: ^4.4.4
         version: link:../../packages/integrations/solid
       astro:
-        specifier: ^4.16.14
+        specifier: ^4.16.15
         version: link:../../packages/astro
       solid-js:
         specifier: ^1.9.3
@@ -320,7 +320,7 @@ importers:
         specifier: ^6.0.2
         version: link:../../packages/integrations/svelte
       astro:
-        specifier: ^4.16.14
+        specifier: ^4.16.15
         version: link:../../packages/astro
       svelte:
         specifier: ^5.1.16
@@ -332,7 +332,7 @@ importers:
         specifier: ^4.5.3
         version: link:../../packages/integrations/vue
       astro:
-        specifier: ^4.16.14
+        specifier: ^4.16.15
         version: link:../../packages/astro
       vue:
         specifier: ^3.5.12
@@ -344,25 +344,25 @@ importers:
         specifier: ^8.3.4
         version: 8.3.4(astro@packages+astro)
       astro:
-        specifier: ^4.16.14
+        specifier: ^4.16.15
         version: link:../../packages/astro
 
   examples/integration:
     devDependencies:
       astro:
-        specifier: ^4.16.14
+        specifier: ^4.16.15
         version: link:../../packages/astro
 
   examples/minimal:
     dependencies:
       astro:
-        specifier: ^4.16.14
+        specifier: ^4.16.15
         version: link:../../packages/astro
 
   examples/portfolio:
     dependencies:
       astro:
-        specifier: ^4.16.14
+        specifier: ^4.16.15
         version: link:../../packages/astro
 
   examples/ssr:
@@ -374,7 +374,7 @@ importers:
         specifier: ^6.0.2
         version: link:../../packages/integrations/svelte
       astro:
-        specifier: ^4.16.14
+        specifier: ^4.16.15
         version: link:../../packages/astro
       svelte:
         specifier: ^5.1.16
@@ -383,7 +383,7 @@ importers:
   examples/starlog:
     dependencies:
       astro:
-        specifier: ^4.16.14
+        specifier: ^4.16.15
         version: link:../../packages/astro
       sass:
         specifier: ^1.80.6
@@ -395,7 +395,7 @@ importers:
   examples/toolbar-app:
     devDependencies:
       astro:
-        specifier: ^4.16.14
+        specifier: ^4.16.15
         version: link:../../packages/astro
 
   examples/with-markdoc:
@@ -404,7 +404,7 @@ importers:
         specifier: ^0.11.5
         version: link:../../packages/integrations/markdoc
       astro:
-        specifier: ^4.16.14
+        specifier: ^4.16.15
         version: link:../../packages/astro
 
   examples/with-mdx:
@@ -416,7 +416,7 @@ importers:
         specifier: ^3.5.4
         version: link:../../packages/integrations/preact
       astro:
-        specifier: ^4.16.14
+        specifier: ^4.16.15
         version: link:../../packages/astro
       preact:
         specifier: ^10.24.3
@@ -431,7 +431,7 @@ importers:
         specifier: ^0.5.2
         version: 0.5.2(nanostores@0.11.3)(preact@10.24.3)
       astro:
-        specifier: ^4.16.14
+        specifier: ^4.16.15
         version: link:../../packages/astro
       nanostores:
         specifier: ^0.11.3
@@ -452,7 +452,7 @@ importers:
         specifier: ^1.6.4
         version: 1.6.4
       astro:
-        specifier: ^4.16.14
+        specifier: ^4.16.15
         version: link:../../packages/astro
       autoprefixer:
         specifier: ^10.4.20
@@ -470,7 +470,7 @@ importers:
   examples/with-vitest:
     dependencies:
       astro:
-        specifier: ^4.16.14
+        specifier: ^4.16.15
         version: link:../../packages/astro
       vitest:
         specifier: ^2.1.4
@@ -8787,7 +8787,6 @@ packages:
 
   libsql@0.4.5:
     resolution: {integrity: sha512-sorTJV6PNt94Wap27Sai5gtVLIea4Otb2LUiAUyr3p6BPOScGMKGt5F1b5X/XgkNtcsDKeX5qfeBDj+PdShclQ==}
-    cpu: [x64, arm64, wasm32]
     os: [darwin, linux, win32]
 
   lilconfig@2.1.0:
@@ -10697,9 +10696,6 @@ packages:
     resolution: {integrity: sha512-M/wqwtOEjgb956/+m5ZrYT/Iq6Hax0OakWbokj8+9PXOnB7b/4AxESHieEtnNEy7ZpjsjYW1/5nK8fATQMmRxw==}
     peerDependencies:
       vue: '>=3.2.13'
-    peerDependenciesMeta:
-      vue:
-        optional: true
 
   vite@5.4.10:
     resolution: {integrity: sha512-1hvaPshuPUtxeQ0hsVH3Mud0ZanOLwVTneA1EgbAM5LhaZEqyPWGRQ7BtaMvUrTDeEaC8pxtj6a6jku3x4z6SQ==}
@@ -16948,7 +16944,6 @@ snapshots:
   vite-svg-loader@5.1.0(vue@3.5.12(typescript@5.6.3)):
     dependencies:
       svgo: 3.3.2
-    optionalDependencies:
       vue: 3.5.12(typescript@5.6.3)
 
   vite@5.4.10(@types/node@18.19.50)(sass@1.80.6):
